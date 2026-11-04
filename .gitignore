@@ -1,0 +1,20 @@
+# data files
+ecommerce-portfolio/data/
+olist-portfolio/data/
+
+# R specific
+*.rds
+*.RData
+*.Rhistory
+
+# Python specific
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+
+# virtual environment stuff
+venv/
+**/venv/
